@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/442e2b31c48040139f89d6f1c0aa2a36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 442e2b31c48040139f89d6f1c0aa2a36
+run_name: brawny-sheep-532
+run_uuid: 442e2b31c48040139f89d6f1c0aa2a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692891947736
+status: 1
+tags: []
+user_id: tejas
